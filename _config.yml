@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Ayush Kumar Singh # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <b> Enjoying life, one checkin at a time </b> 
   <br><br>
-  Second description 
+  Experienced Software Engineer with demonstrated history of working for different R&D projects in different domain such as TCS Cloud Plus an ITSM Tool, Cisco IMCS a Server Management system, Kenan FX an ordering and billing framework for e-businesses and telecommunication service providers. Skilled in Hibernate, Spring MVC, Spring Boot, Microservices, Kenan FX, Java, Enterprise JavaBeans (EJB), RESTful WebServices and Linux. An engineering professional with a Bachelor of Technology (BTech) focused in Electronics and Communications Engineering. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Senior Software Engineer || Impetus 
+  <br><br>
+  <a href="https://www.linkedin.com/in/7ayush7/">LinkedIn Connect</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
